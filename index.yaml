@@ -3,7 +3,7 @@ entries:
   lighty-rnc-app-helm:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-02-09T09:42:27.261034837Z"
+    created: "2021-02-09T10:14:41.599562645Z"
     description: A Helm chart for Kubernetes
     digest: 6a31dfa77cc4b8e67cc295bceb5395c6c65e2b4fc4e3f850e9d309c3439705de
     name: lighty-rnc-app-helm
@@ -12,11 +12,11 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-02-09T09:42:27.260136131Z"
+    created: "2021-02-09T10:14:41.59877494Z"
     description: A Helm chart for Kubernetes
-    digest: c379d6bedbf4e94c517ec4656d72aa932a8629e2cb4709ae2ce1c271c5e578c9
+    digest: 3a605ff3e6276f1bca374cb3922306107587505b1ed27a16445b7b8ff6cc4be0
     name: lighty-rnc-app-helm
     urls:
     - https://marekzatko.github.io/helm-depo/lighty-rnc-app-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-09T09:42:27.259134624Z"
+generated: "2021-02-09T10:14:41.597801234Z"
